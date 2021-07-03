@@ -1,2 +1,4 @@
-# configFiles
-Cofinguration files of linux apps
+# Cofiguration files of linux apps
+
+* vim
+* starship
