@@ -51,6 +51,9 @@ symbol = " "
 
 [memory_usage]
 symbol = " "
+disabled = false
+treshold = -1
+style = "bold dimmed red"
 
 [nim]
 symbol = " "
